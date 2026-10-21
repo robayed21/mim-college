@@ -5,3 +5,9 @@ build
 .env*
 *.tsbuildinfo
 next-env.d.ts
+nextsrv.exe
+*.log
+guard.cmd
+nextsrv.exe
+*.log
+guard.cmd
