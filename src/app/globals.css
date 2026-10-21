@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+@theme {
+  --color-navy: #1b365d;
+  --color-navy-dark: #122544;
+  --color-navy-light: #2a4a7f;
+  --color-gold: #d4af37;
+  --color-gold-light: #e8c96a;
+  --color-surface: #f8f9fa;
+  --font-bengali: var(--font-hind), sans-serif;
+  --font-english: var(--font-inter), sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-surface);
+  color: #1f2937;
+  font-family: var(--font-bengali);
+}
+
+::selection {
+  background: var(--color-gold);
+  color: #fff;
+}
+
+@layer components {
+  .card {
+    @apply rounded-xl bg-white shadow-sm transition-all duration-300 hover:shadow-lg;
+  }
+  .btn-primary {
+    @apply inline-flex items-center gap-2 rounded-lg bg-navy px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-navy-light;
+  }
+  .btn-gold {
+    @apply inline-flex items-center gap-2 rounded-lg bg-gold px-5 py-2.5 text-sm font-semibold text-navy-dark transition-colors hover:bg-gold-light;
+  }
+  .section-title {
+    @apply mb-6 text-2xl font-bold text-navy md:text-3xl;
+  }
+}

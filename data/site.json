@@ -1,0 +1,29 @@
+{
+  "name": "মেহনাজ হোসেন মীম আদর্শ সরকারি কলেজ",
+  "nameEn": "Mehnaz Hossen Mim Adarsha Govt. College",
+  "location": "রঘুনাথপুর, তিতাস, কুমিল্লা",
+  "eiin": "134336",
+  "phone": "01309134336",
+  "email": "mimgovtcollege@gmail.com",
+  "logo": "https://mimgovcollege.edu.bd/uploads/app/mimgovcollege.edu.bd/logo/075fd55b-0876-479c-ba34-af629ce4878f.png",
+  "heroImages": [
+    "https://mimgovcollege.edu.bd/uploads/app/mimgovcollege.edu.bd/dyn/images/73292941-d26f-48fb-af4e-c4453a3928a0.png",
+    "https://mimgovcollege.edu.bd/uploads/app/mimgovcollege.edu.bd/dyn/images/24150806-3c9e-4a00-bf8d-521a33db0ecf.png",
+    "https://mimgovcollege.edu.bd/uploads/app/mimgovcollege.edu.bd/dyn/images/1ccb6cfc-3c91-4e2e-b174-af4f819de121.png"
+  ],
+  "stats": {
+    "teachers": 14,
+    "staff": 3,
+    "maleStudents": 174,
+    "femaleStudents": 225,
+    "totalStudents": 399
+  },
+  "principal": {
+    "name": "PROFESSOR DR. MOHAMMED NORUL BASHER",
+    "designation": "অধ্যক্ষ (Principal)",
+    "image": "https://mimgovcollege.edu.bd/uploads/app/mimgovcollege.edu.bd/dyn/images/ff2834d6-e191-4fbd-9e94-4967f61c77a6.jpg",
+    "message": "শিক্ষা মানুষের জ্ঞান, বিবেক ও মননশীলতা বিকাশের অন্যতম প্রধান মাধ্যম। একটি আলোকিত, সমৃদ্ধ ও মানবিক সমাজ গঠনে মানসম্মত শিক্ষার কোনো বিকল্প নেই। শিক্ষার্থীদের জ্ঞানার্জনের পাশাপাশি নৈতিকতা, শৃঙ্খলা, মানবিক মূল্যবোধ ও দেশপ্রেমে উদ্বুদ্ধ করে যোগ্য নাগরিক হিসেবে গড়ে তোলাই আমাদের অন্যতম প্রধান লক্ষ্য। মেহনাজ হোসেন মীম আদর্শ সরকারি কলেজ শিক্ষার্থীদের আধুনিক ও মানসম্মত শিক্ষা প্রদানের পাশাপাশি তাদের মেধা, সৃজনশীলতা ও নেতৃত্বের গুণাবলি বিকাশে নিরলসভাবে কাজ করে যাচ্ছে। আমরা বিশ্বাস করি, একজন শিক্ষার্থীর প্রকৃত সাফল্য শুধু পরীক্ষার ফলাফলে নয়; বরং তার জ্ঞান, দক্ষতা, নৈতিকতা ও মানবিক গুণাবলির মধ্যেই নিহিত।"
+  },
+  "about": "মেহনাজ হোসেন মীম আদর্শ সরকারি কলেজ কুমিল্লা জেলার তিতাস উপজেলার রঘুনাথপুরে অবস্থিত একটি গুরুত্বপূর্ণ উচ্চশিক্ষা প্রতিষ্ঠান। প্রতিষ্ঠানটির EIIN নম্বর ১৩৪৩৩৬। কলেজটি স্থানীয় শিক্ষার্থীদের উচ্চমাধ্যমিক শিক্ষা গ্রহণের সুযোগ সৃষ্টি করে জ্ঞান, দক্ষতা, নৈতিকতা ও মানবিক মূল্যবোধসম্পন্ন প্রজন্ম গড়ে তোলার লক্ষ্যে শিক্ষা কার্যক্রম পরিচালনা করছে। প্রতিষ্ঠানটি বর্তমানে সরকারি কলেজ হিসেবে শিক্ষা কার্যক্রম পরিচালনা করছে।",
+  "aboutImage": "https://mimgovcollege.edu.bd/uploads/app/mimgovcollege.edu.bd/dyn/images/4b4a651d-2bfc-4935-98fb-db9bf73967fe.png"
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "42fa0fa8-e173-4bc0-9631-ab950bd6592e",
+    "name": "PROFESSOR DR. MOHAMMED NORUL BASHER",
+    "designation": "Principal",
+    "image": "https://mimgovcollege.edu.bd/uploads/app/mimgovcollege.edu.bd/teacher/PROFESSOR_DR._MOHAMMED_NORUL_BASHER_e257910d-6d94-432d-b140-99909777deaf_original.jpg"
+  },
+  {
+    "id": "8cb7e602-7677-4fb5-9ae2-31ea27c02291",
+    "name": "MINARVA KHANAM",
+    "designation": "Lecturer Biology",
+    "image": "https://mimgovcollege.edu.bd/uploads/app/mimgovcollege.edu.bd/teacher/MINARVA_KHANAM_3398459c-ca8e-4c62-8c43-2e4cab52aa52_original.png"
+  },
+  {
+    "id": "ca944816-7631-4691-aaa8-74546e0807fc",
+    "name": "AKTER HOSSAIN",
+    "designation": "Lecturer",
+    "image": "https://mimgovcollege.edu.bd/uploads/app/mimgovcollege.edu.bd/teacher/AKTER_HOSSAIN_cd316470-34e2-4506-b490-7050a559df74_original.jpg"
+  },
+  {
+    "id": "a68fc939-b2bd-4fb1-9a88-9e20fa35600e",
+    "name": "ABDUL MANNAN",
+    "designation": "Lecturer",
+    "image": "https://mimgovcollege.edu.bd/uploads/app/mimgovcollege.edu.bd/teacher/ABDUL_MANNAN_01db5c03-ecf9-4f8f-9f88-4b3194843930_original.jpg"
+  },
+  {
+    "id": "2d5f8a75-7445-49b7-806c-60380ebe6f4a",
+    "name": "SUJAN CHANDRA PAUL",
+    "designation": "Lecturer",
+    "image": "https://mimgovcollege.edu.bd/uploads/app/mimgovcollege.edu.bd/teacher/SUJAN_CHANDRA_PAUL_6bc7e865-4779-4d40-909a-13d81f914975_original.jpg"
+  },
+  {
+    "id": "20b0333b-b172-49d1-85f4-e9b99ad20f25",
+    "name": "SAIKAT DEBNATH",
+    "designation": "Lecturer",
+    "image": "https://mimgovcollege.edu.bd/uploads/app/mimgovcollege.edu.bd/teacher/SAIKAT_DEBNATH_2665a544-016b-4123-ba7f-f3d1e84ec241_original.jpg"
+  },
+  {
+    "id": "771891df-5475-4e13-b9f7-d3ed2bf84bf3",
+    "name": "ABUL HASAN",
+    "designation": "Lecturer, Chemistry",
+    "image": "https://mimgovcollege.edu.bd/uploads/app/mimgovcollege.edu.bd/teacher/ABUL_HASAN_12718b30-4c6f-4374-8151-84d74424a0ca_original.jpg"
+  },
+  {
+    "id": "df10f353-388b-4458-bfdb-024d5729d297",
+    "name": "MD ABDULLA AL-MAMUN",
+    "designation": "Lecturer",
+    "image": "https://mimgovcollege.edu.bd/uploads/app/mimgovcollege.edu.bd/teacher/MD_ABDULLA_AL-MAMUN_b0dd3bd0-6bd3-4828-8be0-e3a9d7673dec_original.jpg"
+  },
+  {
+    "id": "67ee67ac-296c-47c2-8fde-ab60fe9bc40c",
+    "name": "PRODIP GAIN",
+    "designation": "Lecturer",
+    "image": "https://mimgovcollege.edu.bd/uploads/app/mimgovcollege.edu.bd/teacher/PRODIP_GAIN_4a0af597-a8a7-430b-b053-e5603366be4e_original.jpg"
+  },
+  {
+    "id": "eb8f413f-1a0a-4c71-b9c9-0e7520f581f5",
+    "name": "MD ANISUR RAHMAN SARKER",
+    "designation": "Lecturer",
+    "image": "https://mimgovcollege.edu.bd/uploads/app/mimgovcollege.edu.bd/teacher/MD_ANISUR_RAHMAN_SARKER_f9878525-84ee-4e88-924b-3fa1a80f3de2_original.png"
+  },
+  {
+    "id": "406ab247-48ae-42ff-ae7b-86af9f175044",
+    "name": "MD MASUDUR RAHMAN",
+    "designation": "Lecturer",
+    "image": "https://mimgovcollege.edu.bd/uploads/app/mimgovcollege.edu.bd/teacher/MD_MASUDUR_RAHMAN_541a0dd1-cb4f-41d8-a82b-8a472ec40571_original.jpg"
+  },
+  {
+    "id": "68b1e7f5-d17b-4b56-9f27-b19d5a5bb7d5",
+    "name": "MIZANUR RAHMAN",
+    "designation": "Lecturer",
+    "image": "https://mimgovcollege.edu.bd/uploads/app/mimgovcollege.edu.bd/teacher/MIZANUR_RAHMAN_1c68442a-3b5b-4326-a531-d5a947a1c9bc_original.jpg"
+  },
+  {
+    "id": "ad4d0d0e-7e2a-4f17-9e80-4d434f1dc0b9",
+    "name": "MD ALA UDDIN",
+    "designation": "Lecturer",
+    "image": "https://mimgovcollege.edu.bd/uploads/app/mimgovcollege.edu.bd/teacher/MD_ALA_UDDIN_a35cdf6d-6659-470b-bc6a-7bca1b376de4_original.jpg"
+  },
+  {
+    "id": "0862c91e-f0b0-4005-942a-116ba119e27c",
+    "name": "MD SHAHIDUL ISLAM",
+    "designation": "Lecturer In English",
+    "image": "https://mimgovcollege.edu.bd/uploads/app/mimgovcollege.edu.bd/teacher/MD_SHAHIDUL_ISLAM_78797168-5e9a-45c1-b9d7-d4cfd16ff32b_original.jpeg"
+  }
+]
